@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9229ee13-169e-488b-95f6-3af1448003bc": {
+      "ProjectGuid": "9229ee13-169e-488b-95f6-3af1448003bc",
+      "DisplayName": "Entities",
+      "ColorIndex": 0
+    },
+    "1f778f90-b17b-4347-89d7-78b884114f17": {
+      "ProjectGuid": "1f778f90-b17b-4347-89d7-78b884114f17",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "a317f1ba-33ab-44b0-a79e-867f23452370": {
+      "ProjectGuid": "a317f1ba-33ab-44b0-a79e-867f23452370",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    },
+    "02a954dd-88e0-458f-902b-678e1b281bfc": {
+      "ProjectGuid": "02a954dd-88e0-458f-902b-678e1b281bfc",
+      "DisplayName": "Core",
+      "ColorIndex": 3
+    },
+    "3d84269b-c3e1-48ac-835f-756f6f6236f0": {
+      "ProjectGuid": "3d84269b-c3e1-48ac-835f-756f6f6236f0",
+      "DisplayName": "NorthwindWebApi",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

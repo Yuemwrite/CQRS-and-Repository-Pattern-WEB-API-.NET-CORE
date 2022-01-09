@@ -1,0 +1,15 @@
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\yunus.emre.haslak\source\repos\NorthwindWebApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
